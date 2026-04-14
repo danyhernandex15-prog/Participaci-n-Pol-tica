@@ -1,51 +1,52 @@
-# Análisis de la Participación Política en Jóvenes
+# Analisis de la Participacion Politica en Jovenes
 
-## Descripción
-Este proyecto tiene como objetivo analizar la relación entre la participación política en jóvenes y diversos factores que pueden influir en ella, como la confianza en las instituciones, el interés en la política, el uso de redes sociales, la edad y el nivel educativo.
+## Descripcion
+Este proyecto tiene como objetivo analizar la relacion entre la participacion politica en jovenes y diversos factores que pueden influir en ella, como la confianza en las instituciones, el interes en la politica, el uso de redes sociales, la edad y el nivel educativo.
 
 ## Encuesta
-El formulario utilizado para la recolección de datos se puede consultar aquí:
+El formulario utilizado para la recoleccion de datos se puede consultar aqui:
 
 [Ver encuesta](https://docs.google.com/forms/d/e/1FAIpQLSf-acAorwl_vgOLcGBD5oSxXMTD_7YZvK-30N5ogs28nWGzvA/viewform)
 
 ## Base de datos
-Los datos fueron obtenidos a través de una encuesta aplicada a jóvenes. El conjunto de datos incluye variables como participación política, interés, confianza, uso de redes sociales, edad y nivel educativo.
+Los datos fueron obtenidos a traves de una encuesta aplicada a jovenes. El conjunto de datos incluye variables como participacion politica, interes, confianza, uso de redes sociales, edad y nivel educativo.
 
 [Descargar base de datos](Respuestas de formulario.csv)
 
-## Metodología
-Se diseñó y aplicó una encuesta con preguntas en formato cuantitativo, lo que permitió realizar un análisis estadístico en R.
+## Metodologia
+Se diseno y aplico una encuesta con preguntas en formato cuantitativo, lo que permitio realizar un analisis estadistico en R.
 
-## Matriz de correlación
+## Matriz de correlacion
 
-![Matriz de correlación](matriz correlacion.png)
+![Matriz de correlacion](matriz correlacion.png)
 
-La matriz de correlación muestra una fuerte relación positiva entre el interés y la participación, así como entre la importancia y la participación. En contraste, la confianza presenta una relación negativa.
+La matriz de correlacion muestra una fuerte relacion positiva entre el interes y la participacion, asi como entre la importancia y la participacion. En contraste, la confianza presenta una relacion negativa.
 
-## Gráfica de dispersión
+## Grafica de dispersion
 
-![Gráfica](Gráfica de dispersión.png)
+![Grafica](grafica de dispersion.png)
 
-La gráfica muestra una relación positiva entre el interés en la política y la participación política, lo que indica que a mayor interés, mayor participación.
+La grafica muestra una relacion positiva entre el interes en la politica y la participacion politica, lo que indica que a mayor interes, mayor participacion.
 
-## Regresión lineal
+## Regresion lineal
 
-Se estimó un modelo de regresión lineal con los siguientes resultados:
+Se estimo un modelo de regresion lineal con los siguientes resultados:
 
-- R² = 0.94
-- Modelo estadísticamente significativo (p < 0.001)
+- R2 = 0.94
+- Modelo estadisticamente significativo (p < 0.001)
 
-**Interpretación:**
-El interés y la educación tienen un efecto positivo significativo sobre la participación política, mientras que la confianza presenta una relación negativa. Las redes sociales no muestran un efecto significativo.
+**Interpretacion:**
+El interes y la educacion tienen un efecto positivo significativo sobre la participacion politica, mientras que la confianza presenta una relacion negativa. Las redes sociales no muestran un efecto significativo.
 
-## Código en R
+## Codigo en R
 
-El código completo utilizado para el análisis se encuentra disponible en el siguiente archivo:
+El codigo completo utilizado para el analisis se encuentra disponible en el siguiente archivo:
 
-[Ver código en R](Análisis_político.R)
+[Ver codigo en R](Analisis_politico.R)
 
-## Conclusión
+## Conclusion
 
-Los resultados indican que el interés político es el factor más importante para explicar la participación política. Este ejercicio demuestra la utilidad de herramientas cuantitativas como la correlación y la regresión lineal para analizar fenómenos sociales.
+Los resultados indican que el interes politico es el factor mas importante para explicar la participacion politica. Este analisis permitio aplicar herramientas estadisticas como la regresion lineal y la matriz de correlacion, fortaleciendo la comprension de los factores que influyen en la participacion politica.
+
 
 
