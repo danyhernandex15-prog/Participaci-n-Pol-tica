@@ -15,3 +15,9 @@ Posteriormente, los datos fueron procesados en *R*, donde se realizaron los sigu
 
 ## Conclusiones
 Los resultados obtenidos permiten identificar qué variables tienen mayor influencia en la participación política, destacando especialmente el papel del interés en la política como factor determinante. Este ejercicio demuestra la utilidad de las herramientas cuantitativas para el análisis de fenómenos sociales y contribuye a una mejor comprensión del comportamiento político en jóvenes.
+
+
+## Matriz de correlación
+
+![Matriz de correlación](matriz_correlacion.png)
+
