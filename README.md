@@ -1,3 +1,4 @@
+
 # Analisis de la Participacion Politica en Jovenes
 
 ## Descripcion
@@ -11,20 +12,20 @@ El formulario utilizado para la recoleccion de datos se puede consultar aqui:
 ## Base de datos
 Los datos fueron obtenidos a traves de una encuesta aplicada a jovenes. El conjunto de datos incluye variables como participacion politica, interes, confianza, uso de redes sociales, edad y nivel educativo.
 
-[Descargar base de datos](Respuestas de formulario.csv)
+[Descargar base de datos](Respuestas_formulario.csv)
 
 ## Metodologia
 Se diseno y aplico una encuesta con preguntas en formato cuantitativo, lo que permitio realizar un analisis estadistico en R.
 
 ## Matriz de correlacion
 
-![Matriz de correlacion](matriz correlacion.png)
+![Matriz de correlacion](matriz_correlacion.png)
 
 La matriz de correlacion muestra una fuerte relacion positiva entre el interes y la participacion, asi como entre la importancia y la participacion. En contraste, la confianza presenta una relacion negativa.
 
 ## Grafica de dispersion
 
-![Grafica](grafica de dispersion.png)
+![Grafica](Grafica_dispersion.png)
 
 La grafica muestra una relacion positiva entre el interes en la politica y la participacion politica, lo que indica que a mayor interes, mayor participacion.
 
