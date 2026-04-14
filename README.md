@@ -43,7 +43,7 @@ El interes y la educacion tienen un efecto positivo significativo sobre la parti
 
 El codigo completo utilizado para el analisis se encuentra disponible en el siguiente archivo:
 
-[Ver codigo en R](Analisis_politico.R)
+[Ver codigo en R](Analisis_polico.R)
 
 ## Conclusion
 
